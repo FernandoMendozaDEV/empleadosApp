@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "empleados-de88c": {
+      "hosting": {
+        "empleados": [
+          "empleados-de88c"
+        ]
+      }
+    }
+  }
+}
